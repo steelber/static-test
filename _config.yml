@@ -11,7 +11,7 @@ minima:
     - { icon: "github", title: "Minima Theme repository at GitHub", url: "https://github.com/jekyll/minima" }
     - { icon: "x-twitter", title: "Jekyll profile at X (formerly Twitter)", url: "https://x.com/jekyllrb" }
   show_excerpts: true
-  skin: auto # Options: auto, classic, dark, solarized, solarized-light, solarized-dark
+  skin: solarized-dark # Options: auto, classic, dark, solarized, solarized-light, solarized-dark
 
 # Build settings
 baseurl: /static-test
